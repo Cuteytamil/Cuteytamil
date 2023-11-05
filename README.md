@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Cuteytamil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Cuteytamil/Cuteytamil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+python code 
+package installed -ntlk,json,numpy,sequential  from keras model,dense,activation,dropout from keras model
+sGd from keras optimizers
+pickle 
+datas are taken from kaggle
